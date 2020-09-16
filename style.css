@@ -237,6 +237,43 @@ h3 {
     color:#727272;
     font-family: "maven pro", "sans-serif";
     font-size: 18px;
+}
 
+.intestazione-dispositivi{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.attachment{
+    width: 100%;
+    height: 400px;
+
+
+
+}
+
+.dispositivi, .profilo, .browser {
+float: left;
+text-align: center;
+padding-left: 180px;
+
+}
+
+.icon-attachment {
+    width: 150px;
+    float: left;
+    text-align: center;
+
+
+}
+ .attachment-description {
+width: 150px;
+text-align: center;
+float: left;
+
+}
+
+.title-attachment{
+    text-align: center;
 
 }
