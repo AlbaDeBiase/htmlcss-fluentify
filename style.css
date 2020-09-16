@@ -255,7 +255,7 @@ h3 {
 .dispositivi, .profilo, .browser {
 float: left;
 text-align: center;
-padding-left: 180px;
+padding-left: 200px;
 
 }
 
@@ -263,6 +263,7 @@ padding-left: 180px;
     width: 150px;
     float: left;
     text-align: center;
+    padding-bottom: 5px;
 
 
 }
@@ -270,6 +271,10 @@ padding-left: 180px;
 width: 150px;
 text-align: center;
 float: left;
+color: #727272;
+padding top: 5px;
+
+
 
 }
 
