@@ -258,24 +258,24 @@ h3 {
 .dispositivi, .profilo, .browser {
     float: left;
     text-align: center;
-    padding-left: 170px;
+    padding: 20px;
+    width: calc(100% / 3);
 
 }
 
 .icon-attachment {
-    width: 150px;
-    float: left;
+    width: 140px;
+
     text-align: center;
     padding-bottom: 5px;
 
 
 }
  .attachment-description {
-    width: 150px;
     text-align: center;
-    float: left;
+
     color: #727272;
-    padding top: 5px;
+
 }
 
 .title-attachment {
@@ -332,14 +332,14 @@ padding-bottom: 20px;
 
 height: 300px;
 /* padding-left: 60px; */
-position: absolute;
+
 left: 109px;
 }
 
 .piattaforma {
 width: 100%;
 height: 500px;
-position: relative;
+/* position: relative; */
 }
 
 .icon-piattaforma {
@@ -354,9 +354,9 @@ position: relative;
     height: 500px;
     width: 34%;
     text-align: left;
-    position: absolute;
+    /* position: absolute;
     right: 243px;
-    bottom: -71px;
+    bottom: -71px; */
 
     /* right: 253px;
     bottom: -73px; */
