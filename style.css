@@ -238,6 +238,8 @@ h3 {
     color:#727272;
     font-family: "maven pro", "sans-serif";
     font-size: 18px;
+    padding-top: 15px;
+    width: 92%;
 }
 
 .intestazione-dispositivi{
@@ -332,4 +334,31 @@ height: 300px;
 /* padding-left: 60px; */
 position: absolute;
 left: 109px;
+}
+
+.piattaforma {
+width: 100%;
+height: 500px;
+position: relative;
+}
+
+.icon-piattaforma {
+    float: left;
+    height: 500px;
+    width: 50%;
+    text-align: center;
+}
+
+.paragrafo-piattaforma {
+    float: left;
+    height: 500px;
+    width: 34%;
+    text-align: left;
+    position: absolute;
+    right: 243px;
+    bottom: -71px;
+
+    /* right: 253px;
+    bottom: -73px; */
+
 }
